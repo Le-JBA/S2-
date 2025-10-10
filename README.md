@@ -1,8 +1,8 @@
 This is a collection of designs I have been working on for the Convoy S2+ platform.
 
-With these you can go from a reflector or TIR optic to a "mule" configuration, which gives you the widest possible spread and the most even light districution (at the cost of range). 
+With these you can go from a reflector or TIR optic to a "mule" configuration, which gives you the widest possible spread and the most even light distribution (at the cost of range). 
 
-Mule adapters can be cut from either aluminum or copper depending on wether you prioritize thermals, price or weight. I have been using JLCCNC, where one can upload the files and get an instant quote for the price.
+Mule adapters can be cut from either aluminum or copper depending on whether you prioritize thermals, price or weight. I have been using JLCCNC, where one can upload the files and get an instant quote for the price.
 
 The 16mm and 20mm adapters fit the Convoy 16 and 20mm MCPCBs respectively. 
 
