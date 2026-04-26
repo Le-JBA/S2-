@@ -10,7 +10,7 @@ The cables that are included with Convoy 17mm drivers are enough to clear these 
 
 It is recommended to print the gaskets with a material that is resistant to heat. I have been using SLA resins, which has been working very well for me so far. If you are making a UV mule and use a SLA printer, please remember to seal the print so it does not overcure inside the flashlight.
 
-Except for the quad gasket, these parts are made to be used together with the included gasket from Convoy. Without the Convoy gasket you may have a hard time fitting the cables underneath. The quad gaskets have cutouts for cables, be mindful of orientation BEFORE you solder the cables to the MCPCB.
+Except for the quad & the universal gasket, these parts are made to be used together with the included gasket from Convoy. Without the Convoy gasket you may have a hard time fitting the cables underneath. The quad gaskets have cutouts for cables, be mindful of orientation BEFORE you solder the cables to the MCPCB.
 
 
 <img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/98a27bb4-32c2-492a-b245-b943b9a82905" />
